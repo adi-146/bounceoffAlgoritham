@@ -1,2 +1,2 @@
-# bounceoffAlgoritham
-bounce off the objects and a  common library file.
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
